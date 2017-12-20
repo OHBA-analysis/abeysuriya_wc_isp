@@ -1,0 +1,68 @@
+Left Banks of superior temporal sulcus
+Left Caudal anterior cingulate cortex
+Left Caudal middle frontal
+Left Cuneus
+Left Entorhinal cortex
+Left Fusiform
+Left Inferior parietal lobe
+Left Inferior temporal lobe
+Left Isthmus Cingulate cortex
+Left Lateral occipital lobe
+Left Lateral orbitofrontal cortex
+Left Lingual
+Left Medial orbitofrontal cortex
+Left Middle temporal lobe
+Left Parahippocampal
+Left Paracentral
+Left Pars Percularis
+Left Pars Orbitalis
+Left Pars Triangularis
+Left Pericalcarine 
+Left Postcentral
+Left Posterior cingulate cortex
+Left Precentral
+Left Precuneus
+Left Rostral anterior cingulate cortex
+Left Rostral middle frontal 
+Left Superior frontal
+Left Superior parietal
+Left Superior temporal
+Left Supramarginal
+Left Frontal pole
+Left Temporal pole
+Left Transverse temporal
+Left Insula
+Right Banks of superior temporal sulcus
+Right Caudal anterior cingulate cortex
+Right Caudal middle frontal
+Right Cuneus
+Right Entorhinal cortex
+Right Fusiform
+Right Inferior parietal lobe
+Right Inferior temporal lobe
+Right Isthmus Cingulate cortex
+Right Lateral occipital lobe
+Right Lateral orbitofrontal cortex
+Right Lingual
+Right Medial orbitofrontal cortex
+Right Middle temporal lobe
+Right Parahippocampal
+Right Paracentral
+Right Pars Percularis
+Right Pars Orbitalis
+Right Pars Triangularis
+Right Pericalcarine 
+Right Postcentral
+Right Posterior cingulate cortex
+Right Precentral
+Right Precuneus
+Right Rostral anterior cingulate cortex
+Right Rostral middle frontal 
+Right Superior frontal
+Right Superior parietal
+Right Superior temporal
+Right Supramarginal
+Right Frontal pole
+Right Temporal pole
+Right Transverse temporal
+Right Insula
